@@ -1,0 +1,3 @@
+Buenas tardes profe, debido a que tuve un problema con mi disco duro tuve que hacer de nuevo otra BD, y para no quedarme tan atrás usaba la BD de Northwind, pero al final terminé haciendo todo de nuevo en la nueva base de datos. En cuanto al equipo en proyecto, se decidió hacer el lab individual. De todos modos ya estamos trabajando con el proyecto. 
+
+Tuve que quitar las vistas encriptadas para generar el Script.
