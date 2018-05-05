@@ -1,3 +1,8 @@
-Buenas tardes profe, debido a que tuve un problema con mi disco duro tuve que hacer de nuevo otra BD, y para no quedarme tan atr·s usaba la BD de Northwind, pero al final terminÈ haciendo todo de nuevo en la nueva base de datos. En cuanto al equipo en proyecto, se decidiÛ hacer el lab individual. De todos modos ya estamos trabajando con el proyecto. 
+Buenas tardes profe, debido a que tuve un problema con mi disco duro
+tuve que hacer de nuevo otra BD, y para no quedarme tan atr√°s usaba
+la BD de Northwind, pero al final termin√© haciendo todo mejor de nuevo
+en la nueva base de datos. En cuanto al equipo en proyecto, 
+se decidi√≥ hacer el lab individual.
+De todos modos ya estamos trabajando con el proyecto. 
 
 Tuve que quitar las vistas encriptadas para generar el Script.
